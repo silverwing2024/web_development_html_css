@@ -151,3 +151,6 @@ https://flukeout.github.io/
       개발 환경상에서 웹 페이지가 나타내는 텍스트는 HTML 문서에서 작성되기 보다는 서버에서 들어오는 경우가 많습니다. 그 경우에 어떤 텍스트를 전달받게 될지 확신할 수 없기 때문에 CSS에서 설정합니다. 
 
       textdecoration.html / textdecoration.css 만들겠습니다. 
+
+github 올리고 사인아웃해야함.
+git commit -m "feat:20250131 beforetextdecoration"
