@@ -1,0 +1,31 @@
+ul {
+  list-style: circle;
+}
+/* 
+비어있는 원: circle
+차있는 원 : disc -> 얘는 시작점에서
+default
+차있는 사각형: square
+*/
+
+ol {
+  list-style: lower-alpha;
+  /* 알파베타감마 */
+}
+
+/* 
+1,2,3 : decimal -> 얘는 시작점에서 default
+a, b, c : lower-alpha
+A, B, C : upper-alpha
+i, ii, iii : lower-roman
+I, II, III : Upper-roman
+*/
+ul > li:first-child{
+
+  list-style: "A";
+}
+/* 
+목록 중에서 특정한 것만 지정하여 
+list-style을 편집하는 것도 가능
+-> 부모 / 자식 / 형제 관계에 대한 지난 시간 수업을 확인하셔야 합니다. 
+ */
