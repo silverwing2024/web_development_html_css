@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  
+}
+
+div {
+display:inline-block;
+width: 200px;
+height: 200px;
+background-color: orange;
+margin: 0 auto;
+
+}
